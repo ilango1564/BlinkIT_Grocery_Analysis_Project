@@ -27,7 +27,7 @@ Blinkit-Grocery-Analysis/
 ├── Dashboard/
 │   └── Blinkit grocery analysis dashboard.pbix
 ├── Screenshots/
-│   └── ![Image Alt]()
+│   └── ![Image Alt](https://github.com/ilango1564/BlinkIT_Grocery_Analysis_Project/blob/bd14a00e5dd60279d312391a81af3e0b2a72420b/Screenshots/image.png)
 └── README.md
 📊 Tools & Techniques Used
 Microsoft Excel
