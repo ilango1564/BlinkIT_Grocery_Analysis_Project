@@ -2,7 +2,6 @@ Blinkit Grocery Sales Analysis Dashboard
 📄 Project Overview
 This project focuses on the analysis of grocery sales data from Blinkit, one of India's leading quick-commerce grocery platforms.
 The primary objective is to perform a basic yet effective analysis of grocery sales patterns, outlet performance, and customer demand trends to derive meaningful business insights.
-
 The analysis was carried out using Microsoft Excel for data preparation and cleaning, followed by building an interactive Power BI Dashboard to visualize and present key metrics.
 
 🎯 Problem Statement
@@ -11,13 +10,9 @@ This project aims to analyze grocery sales data and uncover patterns related to 
 
 🔍 Key Insights
 Sales performance analysis across multiple outlets.
-
 Item-wise product performance & demand patterns.
-
 Seasonal demand fluctuations.
-
 Regional sales distribution and outlet efficiency.
-
 Overall sales summary with clear visuals and KPIs.
 
 🗂️ Project Structure
@@ -32,32 +27,22 @@ Blinkit-Grocery-Analysis/
 
 
 └── README.md
+
 📊 Tools & Techniques Used
 Microsoft Excel
-
 Data Cleaning & Preparation
-
 Basic Data Transformation
-
 Microsoft Power BI
-
 Interactive Dashboard Design
-
 KPI Metrics
-
 Slicers and Filters
-
 Drill-through analysis
 
 📁 Dataset
 The dataset used for this project was sourced from Kaggle.com and contains the following fields:
-
 Product Information
-
 Outlet Details
-
 Sales & Revenue Data
-
 Regional Distribution
 
 ✅ Conclusion
