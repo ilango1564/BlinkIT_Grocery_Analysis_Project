@@ -16,11 +16,15 @@ Regional sales distribution and outlet efficiency.
 Overall sales summary with clear visuals and KPIs.
 
 🗂️ Project Structure
+
 Blinkit-Grocery-Analysis/
+
 ├── Dataset/
 │   └── BlinkIT Grocery Data.xlsx
+
 ├── Dashboard/
 │   └── Blinkit grocery analysis dashboard.pbix
+
 ├── Screenshots/
 
 ![Image Alt](https://github.com/ilango1564/BlinkIT_Grocery_Analysis_Project/blob/bd14a00e5dd60279d312391a81af3e0b2a72420b/Screenshots/image.png)
