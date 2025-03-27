@@ -20,9 +20,11 @@ Overall sales summary with clear visuals and KPIs.
 Blinkit-Grocery-Analysis/
 
 ├── Dataset/
+
 │   └── BlinkIT Grocery Data.xlsx
 
 ├── Dashboard/
+
 │   └── Blinkit grocery analysis dashboard.pbix
 
 ├── Screenshots/
